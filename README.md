@@ -1,0 +1,2 @@
+The player has to choose a number and the interface will tell if the right number is greater or smaller than the chosen one, so the player will keep trying until they choose the right number. When it happens, the player has the option of starting a new game and has to guess a new secret number.
+This project was developed during the course "Logic Programming: Explore functions and arrays" at Alura school.
